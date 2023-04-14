@@ -1,0 +1,13 @@
+{
+  "name": "utils-sheep",
+  "version": "1.0.2",
+  "private": false,
+  "scripts": {
+    "publish": "npm publish",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "jest": {}
+}

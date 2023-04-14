@@ -1,0 +1,13 @@
+config
+node_modules
+public
+scripts
+src/index.js
+.gitignore
+.gitattributes
+.npmignore
+package-lock.json
+package.json
+yarn-error.log
+yarn.lock
+unpubAndPub.js
